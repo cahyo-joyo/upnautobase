@@ -3,6 +3,7 @@ import time
 
 #test pancing ke heroku supaya keluar dyno yaaaa
 #test kedua pancing worker supaya muncul...
+#test pancing
 
 tw = Twitter()
 
